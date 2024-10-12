@@ -7,3 +7,10 @@ Week1
 -Then I made word clouds from collected data
 
 Note: I wrote this notebook in jupyter notebook, not colab. You would also need a file of shape that you want for wordcloud and a font file in your local environment.
+
+
+Week2
+
+-Web crawling from dynamic website
+
+-Collected reviews and ratings of John Wick4 from imdb
