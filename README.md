@@ -14,12 +14,13 @@ Note: I wrote this notebook in jupyter notebook, not colab. You would also need 
 
 
 
-※IMDB website crawling
+※IMDB website movie review crawling
 
 -Web crawling from dynamic website using selenium
 
 -Collected reviews and ratings of John Wick4 from imdb
 
+-Sentiment classification and rating prediction of movie reviews using Gemini & Huggingface
 
 
 
