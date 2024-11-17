@@ -28,3 +28,8 @@ Note: I wrote this notebook in jupyter notebook, not colab. You would also need 
 <h3>※MovieLens 100K</h3>
 
 -I used this dataset to recommend movies based on user profile
+
+
+<h3>※Poet generator using Chatgpt API</h3>
+
+- I used Chatgpt API and streamlit
